@@ -2,6 +2,7 @@
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning HTML CSS and Java
 - 📫 How to reach me borthmike95@gmail.com or via twitter at mike_borth
+- any help or advice is greatly appreciate while I start this jounrey  
 
 <!---
 borthmike/borthmike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
